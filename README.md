@@ -6,3 +6,5 @@ Hypothesis_testing_and_random_simulation.ipynb: Pre-processing, visualisation, a
 HDB_SG_DA.ipynb: Preprocessing, analysis, visualisation and insights of multiple perspectives on HDB resale data in Singapore.
 
 Regression_and_modelling.ipynb: Data preprocessing, multiple linear regression, polynomial regression, model analysis
+
+Simple Recommendation System.ipynb: Simple processing of student and course data from NUS SOC and production of a course recommendation system.
